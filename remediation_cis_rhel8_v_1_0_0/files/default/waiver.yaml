@@ -1,1 +1,32 @@
-
+xccdf_org.cissecurity.benchmarks_rule_1.1.9_Ensure_nosuid_option_set_on_vartmp_partition:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.10_Ensure_noexec_option_set_on_vartmp_partition:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.11_Ensure_nodev_option_set_on_home_partition:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.12_Ensure_noexec_option_set_on_devshm_partition:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.13_Ensure_sudo_log_file_exists:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.14_Ensure_bootloader_password_is_set:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.15_Ensure_wireless_interfaces_are_disabled:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
+xccdf_org.cissecurity.benchmarks_rule_1.1.Ensure_rsyslog_is_configured_to_send_logs_to_a_remote_log_hosts:
+expiration_date:2021-12-31
+justification:"Sound reasoning"
+run:false
