@@ -26,7 +26,11 @@ xccdf_org.cissecurity.benchmarks_rule_1.1.15_Ensure_wireless_interfaces_are_disa
 expiration_date:2021-12-31
 justification:"Sound reason"
 run:false
-xccdf_org.cissecurity.benchmarks_rule_1.1.Ensure_rsyslog_is_configured_to_send_logs_to_a_remote_log_hosts:
+xccdf_org.cissecurity.benchmarks_rule_1.1.16_Ensure_rsyslog_is_configured_to_send_logs_to_a_remote_log_hosts:
+expiration_date:2021-12-31
+justification:"Sound reason"
+run:false
+xccdf_org.cissecurity.benchmarks.rule_1.1.17_Ensure_tmp_is_configured:
 expiration_date:2021-12-31
 justification:"Sound reason"
 run:false
