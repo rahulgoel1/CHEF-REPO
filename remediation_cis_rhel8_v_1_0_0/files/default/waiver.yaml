@@ -29,4 +29,4 @@ run:false
 xccdf_org.cissecurity.benchmarks_rule_1.1.Ensure_rsyslog_is_configured_to_send_logs_to_a_remote_log_hosts:
 expiration_date:2021-12-31
 justification:"Sound reason"
-run:false
+run:alse
